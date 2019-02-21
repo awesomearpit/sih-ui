@@ -1,0 +1,10 @@
+.login-heading{
+    color:#000;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.no-padding{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
